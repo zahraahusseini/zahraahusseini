@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Zahraa Husseini
-
+### Hi there 👋 
+I'm Zahraa from Lebanon,and I do content on Design and Development.I really enjoy learning languages and frameworks like Laravel and React ,as well as work on improving my programming language.I am currently working on developing my concept for the basics of computer Science in the SE Factory.
 <!--
 **zahraahusseini/zahraahusseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
