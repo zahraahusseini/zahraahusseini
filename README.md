@@ -6,10 +6,10 @@
 
 I'm Zahraa from Lebanon,and I do content on Design and Development.I really enjoy learning languages and frameworks like Laravel and React ,as well as work on improving my programming language.I am currently working on developing my concept for the basics of computer Science in the SE Factory.
 ## Skills and Experience
-✔ Laravel
-✔ VS code
-✔ Github
-🖥 HTML,CSS, JS ,PhP,Python
+* ✔ Laravel
+* ✔ VS code
+* ✔ Github
+* 🖥 HTML,CSS, JS ,PhP,Python
 
 - 🔭 I’m currently working on Trust for computers and electronics 
 - 🌱 I’m currently learning Foundation of computer Science 
