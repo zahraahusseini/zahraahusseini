@@ -11,7 +11,7 @@ I'm Zahraa from Lebanon,and I do content on Design and Development.I really enjo
 * ✔ Github
 * 🖥 HTML,CSS, JS ,PhP,Python
 
-- 🔭 I’m currently working on Trust for computers and electronics 
+- 🔭 I’m currently working in Trust for computers and electronics company
 - 🌱 I’m currently learning Foundation of computer Science 
 
 
