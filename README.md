@@ -1,6 +1,6 @@
 ### Hi there 👋, Zahraa Husseini
 #### Design and Development
-![Design and Development](https://github.com/zahraahusseini)
+![Design and Development]([https://github.com/zahraahusseini](https://www.freepik.com/premium-ai-image/cyberpunk-hacker-anime-girl-with-edgy-haircuy-typing-holographic-keyboard-while-surrounded-by-neon-code-digital-data-manga-style-illustration-generative-ai_43007399.htm))
 
 I'm Zahraa from Lebanon,and I do content on Design and Development.I really enjoy learning languages and frameworks like Laravel and React ,as well as work on improving my programming language.I am currently working on developing my concept for the basics of computer Science in the SE Factory.
 
